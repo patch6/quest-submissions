@@ -20,9 +20,13 @@ A transaction changes the data of a smart contract in some way. A script only vi
 ## 1. What are the five pillars of the Cadence programming language?
 
 1: Safety and security: It has an insanely strong type system, seperation between contracts and transactions, and resource-oriented programming.
+
 2: Clarity: The code is easy to read because it is declarative, so intent can be expressed clearly, which makes it easy to audit and review.
+
 3: Approachability: It is written similarly to other programming languages, so adoption is easier.
+
 4: Developer experience: Error messages are clear, so the contracts are easy to debug.
+
 5: Resource oriented programming: Basically information that can't be in two places at once without causing an error in Cadence.
 
 ## 2. Without looking it up, why would these pillars be useful in coding?
